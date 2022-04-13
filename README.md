@@ -1,6 +1,6 @@
 [<div align=left><img alt="Tela de Exemplo - Jogo da Forca" src="https://user-images.githubusercontent.com/53992405/163100407-085d2a83-968e-4ff4-8918-67818414ee54.png" height="200" width="300"/></div>][jogodaforca]
 
-# Cliente-Servidor-JogoDaForca-Java
+# Cliente-Servidor-JogoDaForca_Java
 
 Este é um simples Jogo da Forca com Sistema Cliente-Servidor de até 3 pessoas por partida, esse mesmo trabalho foi desenvolvido em quarteto, durante a matéria de Técnicas de Programação II para nosso querido professor Maligno! (André) no COTUCA.
 
