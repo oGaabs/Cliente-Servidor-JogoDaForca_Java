@@ -1,6 +1,6 @@
 [<div align=left><img alt="Tela de Exemplo - Jogo da Forca" src="https://user-images.githubusercontent.com/53992405/163100407-085d2a83-968e-4ff4-8918-67818414ee54.png" height="200" width="300"/></div>][jogodaforca]
 
-# cliente-servidor.Servidor-JogoDaForca_Java
+# Cliente-Servidor-JogoDaForca_Java
 
 Este é um simples Jogo da Forca com Sistema cliente-servidor.Servidor de até 3 pessoas por partida, esse mesmo trabalho foi desenvolvido em quarteto, durante a matéria de Técnicas de Programação II para nosso querido professor Maligno! (André) no COTUCA.
 
@@ -8,7 +8,7 @@ Pretendemos, assim que possível, refatorar todo o código, de forma a melhorar 
 
 ## Contributing
 
-Feel free to send suggestions, provide tips or even rebuild the code.
+Fique à vontade para enviar sugestões, dar dicas ou até mesmo reconstruir o código, mas mantenha.
 
 #### Networks Gabriel:
 
@@ -19,6 +19,7 @@ Feel free to send suggestions, provide tips or even rebuild the code.
 
 #### Networks Maria:
 
+[<img alt="GitHub followers Maria" src="https://img.shields.io/github/followers/mariaxuxu?label=Follow&style=social" height="22" title="Follow me"/>](https://github.com/mariaxuxu)
 [<img alt="Instagram Maria" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=instagram.com/https.mariiax/" height="22" />](https://www.instagram.com/https.mariiax/)
 
 #### Networks Taylor:
@@ -26,18 +27,11 @@ Feel free to send suggestions, provide tips or even rebuild the code.
 [<img alt="GitHub followers Taylor" src="https://img.shields.io/github/followers/taylorburgues?label=Follow&style=social" height="22" title="Follow me"/>](https://github.com/taylorburgues)
 [<img alt="Instagram Taylor" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=instagram.com/theo_burgues/" height="22" />](https://www.instagram.com/theo_burgues/)
 
-#### Networks Munir:
-
-[<img alt="GitHub followers Munir" src="https://img.shields.io/github/followers/munirbisteni?label=Follow&style=social" height="22" title="Follow me"/>](https://github.com/munirbisteni)
-[<img alt="Mail to Munir" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="munir.mlcb@gmail.com" />](mailto:munir.mlcb@gmail.com)
-[<img alt="Linkedin Munir" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/munir-lucio-da-costa-bisteni-2b7354229/" height="22" />](https://www.linkedin.com/in/munir-lucio-da-costa-bisteni-2b7354229/)
-
 ## Equipe
 
 * **Gabriel Santana Silva** - *Owner* - [GitHub](https://github.com/PuniGC)
 * **Maria Clara Redin Benitez** - *Owner* - [Instagram](https://www.instagram.com/https.mariiax/)
 * **Taylor Matheus Burguês Gomes** - *Owner* - [GitHub](https://github.com/taylorburgues)
-* **Munir** - *Owner* - [GitHub](https://github.com/munirbisteni)
 
 ## License
 
