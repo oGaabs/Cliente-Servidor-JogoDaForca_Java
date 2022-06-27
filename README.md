@@ -1,8 +1,8 @@
 [<div align=left><img alt="Tela de Exemplo - Jogo da Forca" src="https://user-images.githubusercontent.com/53992405/163100407-085d2a83-968e-4ff4-8918-67818414ee54.png" height="200" width="300"/></div>][jogodaforca]
 
-# Cliente-Servidor-JogoDaForca_Java
+# cliente-servidor.Servidor-JogoDaForca_Java
 
-Este é um simples Jogo da Forca com Sistema Cliente-Servidor de até 3 pessoas por partida, esse mesmo trabalho foi desenvolvido em quarteto, durante a matéria de Técnicas de Programação II para nosso querido professor Maligno! (André) no COTUCA.
+Este é um simples Jogo da Forca com Sistema cliente-servidor.Servidor de até 3 pessoas por partida, esse mesmo trabalho foi desenvolvido em quarteto, durante a matéria de Técnicas de Programação II para nosso querido professor Maligno! (André) no COTUCA.
 
 Pretendemos, assim que possível, refatorar todo o código, de forma a melhorar legibilidade do código, implementar novos conceitos e melhorar a lógica geral, a versão inicial está no commit (["Initial Commit"][initialcommit]), está é a versão original que foi entrega durante o curso, quando o projeto foi feito, a intenção era aplicar conceitos de recebimento e envio de pacotes/comunicados, portas e socket, argumentos, thread, array e sincronismo, logica de jogos online, verificações cliente-servidor, enceramento inesperado e uma revisão total de toda matéria de Técnicas de Programação II na linguagem java.
 
@@ -50,4 +50,4 @@ This project is licensed under the [MIT License][license].
 [discord]: https://discords.com/bio/p/punidc
 [license]: LICENSE
 [jogodaforca]: https://user-images.githubusercontent.com/53992405/163100407-085d2a83-968e-4ff4-8918-67818414ee54.png
-[initialcommit]: https://github.com/PuniGC/Cliente-Servidor-JogoDaForca_Java/commit/d480b6a38cdcb251a04b9804c834fcc11511e501
+[initialcommit]: https://github.com/PuniGC/Cliente-servidor.Servidor-JogoDaForca_Java/commit/d480b6a38cdcb251a04b9804c834fcc11511e501
