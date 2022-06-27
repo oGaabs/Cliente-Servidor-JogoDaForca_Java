@@ -44,4 +44,4 @@ This project is licensed under the [MIT License][license].
 [discord]: https://discords.com/bio/p/punidc
 [license]: LICENSE
 [jogodaforca]: https://user-images.githubusercontent.com/53992405/163100407-085d2a83-968e-4ff4-8918-67818414ee54.png
-[initialcommit]: https://github.com/PuniGC/Cliente-servidor.Servidor-JogoDaForca_Java/commit/d480b6a38cdcb251a04b9804c834fcc11511e501
+[initialcommit]: https://github.com/PuniGC/Cliente-Servidor-JogoDaForca_Java/commit/d480b6a38cdcb251a04b9804c834fcc11511e501
