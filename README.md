@@ -29,7 +29,7 @@ Fique à vontade para enviar sugestões, dar dicas ou até mesmo reconstruir o c
 
 ## Equipe
 
-* **Gabriel Santana Silva** - *Owner* - [GitHub](https://github.com/PuniGC)
+* **Gabriel Santana Silva** - *Owner* - [Instagram](https://www.instagram.com/gabrielsants_dev/)
 * **Maria Clara Redin Benitez** - *Owner* - [Instagram](https://www.instagram.com/https.mariiax/)
 * **Taylor Matheus Burguês Gomes** - *Owner* - [GitHub](https://github.com/taylorburgues)
 
